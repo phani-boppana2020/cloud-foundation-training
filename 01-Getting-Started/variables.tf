@@ -19,11 +19,11 @@
 
 /**
 variable "project_id" {
-  description = "GCP Project ID"
+  description = "plasma-range-343615"
   type = string
 }
 variable "region" {
-  description = "GCP Region"
+  description = "us-central1"
   type = string
 }
 */
